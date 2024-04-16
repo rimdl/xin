@@ -1,0 +1,8 @@
+{
+  "baseUrl": "http://192.168.4.102:5000",
+  "github_client_id": "Iv1.5af9aa301b5b0c75",
+  "github_redirect_uri": "http://localhost:8000/api/oauth",
+  "gitee_client_id": "63c27403277cb5ebba32f49449d12cb85e9a8b2b95c270186e3f99143adb1cb1",
+  "gitee_redirect_uri": "http://192.168.4.102:5000/api/login/gitee",
+  "page_size": 10
+}

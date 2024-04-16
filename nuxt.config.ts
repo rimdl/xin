@@ -9,4 +9,8 @@ export default defineNuxtConfig({
     app: {
         pageTransition: {name: 'page', mode: 'out-in'},
     },
+    plugins: [
+        '~/plugins/v-viewer.client',
+        '~/plugins/vue-toastification.client'
+    ],
 })
